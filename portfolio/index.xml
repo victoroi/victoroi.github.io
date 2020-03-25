@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Portfolios on Victoria Roi Portfolio</title>
+    <link>/portfolio/</link>
+    <description>Recent content in Portfolios on Victoria Roi Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 05 Nov 2016 20:02:19 +0530</lastBuildDate>
+    
+	<atom:link href="/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Plano de luz 1</title>
+      <link>/portfolio/work2/</link>
+      <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
+      
+      <guid>/portfolio/work2/</guid>
+      <description>Detalle 1  Observaciones: Varios contrastes de luz. Objetos traseros influyen. Curvaturas entregan sombras.
+ Detalle 2  Observaciones: Más lejos del foco de luz, hay menos sombras. Luz más pareja. Menos contraste de luz, pero aparecen sombras perpendiculares.
+ Detalle 3  Observaciones: Misma sombra desde otra perspectiva. Aún menos contraste. Más oscuro.
+ Detalle 4  Observaciones: Conjunto, fusión entre lo circular y lo geométrico. Figura triangular al centro y muy marcada con sombras.</description>
+    </item>
+    
+    <item>
+      <title>Plano de luz 2</title>
+      <link>/portfolio/work3/</link>
+      <pubDate>Sat, 05 Nov 2016 19:44:32 +0530</pubDate>
+      
+      <guid>/portfolio/work3/</guid>
+      <description>Detalle 1  Observaciones: Mayor juego con tonalidades de sombras. Mezcla de dos objetos circulares muy parecidos. Distinción de objetos a través de las sombras.
+ Detalle 2  Observaciones: Sombras más oscuras, menos contraste entre sí. Objetos sobrepuestos.
+ Detalle 3  Observaciones: Rodeados de su propia sombra. Gran diferencia en las intensidades de las sombras.
+ Detalle 4  Observaciones: Mismo plano de luz con misma luz (visto desde el mismo lado), tienen sombras muy parecidas.</description>
+    </item>
+    
+    <item>
+      <title>Plano de luz 3</title>
+      <link>/portfolio/work4/</link>
+      <pubDate>Sat, 05 Nov 2016 19:50:47 +0530</pubDate>
+      
+      <guid>/portfolio/work4/</guid>
+      <description>Detalle 1  Observaciones: Superposición de sombras. Aparición de sombras más claras. Juego alambre - sombras papeles.
+ Detalle 2  Observaciones: Mayor mezcla de intensidades de sombras dibujada. Superificies y líneas. Sombras muy claras.
+ Detalle 3  Observaciones: Nuevamente superposición de sombras. Sombras fuertes.
+ Detalle 4  Observaciones: Comportamiento similar de las sombras, mezcla y unión.
+ Detalle 5  Observaciones: Colores y tonalidades de sombras distintas, difíciles de representar con un solo color.</description>
+    </item>
+    
+    <item>
+      <title>Volumen de luz 1</title>
+      <link>/portfolio/work9/</link>
+      <pubDate>Sat, 05 Nov 2016 20:02:19 +0530</pubDate>
+      
+      <guid>/portfolio/work9/</guid>
+      <description>Volumen Creado a partir de alambres, papel vegetal y maskin tape.</description>
+    </item>
+    
+    <item>
+      <title>Bitácora Instalación Hugo</title>
+      <link>/portfolio/work10/</link>
+      <pubDate>Sat, 05 Nov 2016 20:02:19 +0530</pubDate>
+      
+      <guid>/portfolio/work10/</guid>
+      <description>Instalación Tema Hugo Descarga del tema elegido a través de hugo.com Zip abierto y carpeta agregada a la carpeta website3 de Hugo Abrir Terminal y ejecutar hugo server dentro de website3 Abrir Visual Studio y confirmar nombre en configtoml sea el mismo que el de la carpeta descargada (zip) En visual agregar el texto y las imágenes </description>
+    </item>
+    
+  </channel>
+</rss>
