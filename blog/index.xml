@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog on Victoria Roi Portfolio</title>
+    <link>https://example.com/blog/</link>
+    <description>Recent content in Blog on Victoria Roi Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 29 Mar 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://example.com/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Plano de luz 1</title>
+      <link>https://example.com/blog/1p/</link>
+      <pubDate>Sun, 22 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/blog/1p/</guid>
+      <description>Detalle 1  Observaciones: Varios contrastes de luz. Objetos traseros influyen. Curvaturas entregan sombras.
+ Detalle 2  Observaciones: Más lejos del foco de luz, hay menos sombras. Luz más pareja. Menos contraste de luz, pero aparecen sombras perpendiculares.
+ Detalle 3  Observaciones: Misma sombra desde otra perspectiva. Aún menos contraste. Más oscuro.
+ Detalle 4  Observaciones: Conjunto, fusión entre lo circular y lo geométrico. Figura triangular al centro y muy marcada con sombras.</description>
+    </item>
+    
+    <item>
+      <title>Plano de luz 2</title>
+      <link>https://example.com/blog/2p/</link>
+      <pubDate>Sun, 22 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/blog/2p/</guid>
+      <description>Detalle 1  Observaciones: Mayor juego con tonalidades de sombras. Mezcla de dos objetos circulares muy parecidos. Distinción de objetos a través de las sombras.
+ Detalle 2  Observaciones: Sombras más oscuras, menos contraste entre sí. Objetos sobrepuestos.
+ Detalle 3  Observaciones: Rodeados de su propia sombra. Gran diferencia en las intensidades de las sombras.
+ Detalle 4  Observaciones: Mismo plano de luz con misma luz (visto desde el mismo lado), tienen sombras muy parecidas.</description>
+    </item>
+    
+    <item>
+      <title>Plano de luz 3</title>
+      <link>https://example.com/blog/3p/</link>
+      <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
+      
+      <guid>https://example.com/blog/3p/</guid>
+      <description>Detalle 1  Observaciones: Superposición de sombras. Aparición de sombras más claras. Juego alambre - sombras papeles.
+ Detalle 2  Observaciones: Mayor mezcla de intensidades de sombras dibujada. Superificies y líneas. Sombras muy claras.
+ Detalle 3  Observaciones: Nuevamente superposición de sombras. Sombras fuertes.
+ Detalle 4  Observaciones: Comportamiento similar de las sombras, mezcla y unión.
+ Detalle 5  Observaciones: Colores y tonalidades de sombras distintas, difíciles de representar con un solo color.</description>
+    </item>
+    
+    <item>
+      <title>Volumen de luz</title>
+      <link>https://example.com/blog/4volumen/</link>
+      <pubDate>Fri, 27 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/blog/4volumen/</guid>
+      <description>Volumen Creado a partir de alambres, papel vegetal y maskin tape.
+Detalles constructivos del volumen.
+Dibujos esquemáticos sobre la creación e iluminación del volumen. </description>
+    </item>
+    
+    <item>
+      <title>Bitácora Instalación Hugo</title>
+      <link>https://example.com/blog/5bitacora/</link>
+      <pubDate>Sun, 29 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/blog/5bitacora/</guid>
+      <description>Instalación Tema Hugo Descarga del tema elegido a través de hugo.com Zip abierto y carpeta agregada a la carpeta website3 de Hugo Abrir Terminal y ejecutar hugo server dentro de website3 Abrir Visual Studio y confirmar nombre en configtoml sea el mismo que el de la carpeta descargada (zip) En visual agregar el texto y las imágenes Para crear dirección de la página web, realizarlo a través de Github.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>shortcodes on Victoria Roi Portfolio</title>
+    <link>https://example.com/tags/shortcodes/</link>
+    <description>Recent content in shortcodes on Victoria Roi Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 22 Mar 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://example.com/tags/shortcodes/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Plano de luz 2</title>
+      <link>https://example.com/blog/2p/</link>
+      <pubDate>Sun, 22 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/blog/2p/</guid>
+      <description>Detalle 1  Observaciones: Mayor juego con tonalidades de sombras. Mezcla de dos objetos circulares muy parecidos. Distinción de objetos a través de las sombras.
+ Detalle 2  Observaciones: Sombras más oscuras, menos contraste entre sí. Objetos sobrepuestos.
+ Detalle 3  Observaciones: Rodeados de su propia sombra. Gran diferencia en las intensidades de las sombras.
+ Detalle 4  Observaciones: Mismo plano de luz con misma luz (visto desde el mismo lado), tienen sombras muy parecidas.</description>
+    </item>
+    
+  </channel>
+</rss>
