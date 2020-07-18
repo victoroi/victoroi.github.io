@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Taller Ciudad y Espacio 2020 on Nombre Alumno</title>
+    <title>Taller Ciudad y Espacio 2020 on Victoria Roi</title>
     <link>https://victoroi.github.io/docs/</link>
-    <description>Recent content in Taller Ciudad y Espacio 2020 on Nombre Alumno</description>
+    <description>Recent content in Taller Ciudad y Espacio 2020 on Victoria Roi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 28 Nov 2018 15:14:39 +1000</lastBuildDate>
@@ -12,48 +12,48 @@
     
     
     <item>
-      <title>Instalar Tema</title>
-      <link>https://victoroi.github.io/docs/instalar-tema/</link>
+      <title>Petorca</title>
+      <link>https://victoroi.github.io/docs/1petorca/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
-      <guid>https://victoroi.github.io/docs/instalar-tema/</guid>
-      <description>Tutorial de intalación del tema utilizando el Framework Hugo.</description>
-    </item>
-    
-    <item>
-      <title>Configuración</title>
-      <link>https://victoroi.github.io/docs/configuracion/</link>
-      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
-      
-      <guid>https://victoroi.github.io/docs/configuracion/</guid>
-      <description>Tutorial de configuración básica del menú y otros elementos del tema.</description>
-    </item>
-    
-    <item>
-      <title>Ejemplo Shortcodes</title>
-      <link>https://victoroi.github.io/docs/ejemplo/</link>
-      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
-      
-      <guid>https://victoroi.github.io/docs/ejemplo/</guid>
-      <description>Uso de los Shortcodes para agregar contenido en el sitio de documentación.</description>
+      <guid>https://victoroi.github.io/docs/1petorca/</guid>
+      <description>Investigación de territorio y problemática.</description>
     </item>
     
     <item>
       <title>Encargo 1</title>
-      <link>https://victoroi.github.io/docs/encargo1/</link>
+      <link>https://victoroi.github.io/docs/2encargo1/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
-      <guid>https://victoroi.github.io/docs/encargo1/</guid>
+      <guid>https://victoroi.github.io/docs/2encargo1/</guid>
       <description>Encargo 1 Iframe Fusion 360.</description>
     </item>
     
     <item>
-      <title>Petorca</title>
-      <link>https://victoroi.github.io/docs/objetivos/</link>
+      <title>Encargo 2</title>
+      <link>https://victoroi.github.io/docs/3encargo2/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
-      <guid>https://victoroi.github.io/docs/objetivos/</guid>
-      <description>INVESTIGACIÓN DE TERRITORIO Y PROBLEMÁTICA.</description>
+      <guid>https://victoroi.github.io/docs/3encargo2/</guid>
+      <description>Modelado 3D, moldes y diseño generativo.</description>
+    </item>
+    
+    <item>
+      <title>Instalar Tema</title>
+      <link>https://victoroi.github.io/docs/4instalar-tema/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://victoroi.github.io/docs/4instalar-tema/</guid>
+      <description>Tutorial de intalación del tema utilizando el Framework Hugo.</description>
+    </item>
+    
+    <item>
+      <title>Ejemplo Shortcodes</title>
+      <link>https://victoroi.github.io/docs/5ejemplo/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://victoroi.github.io/docs/5ejemplo/</guid>
+      <description>Uso de los Shortcodes para agregar contenido en el sitio de documentación.</description>
     </item>
     
   </channel>
